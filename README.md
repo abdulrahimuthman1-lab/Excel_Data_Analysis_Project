@@ -5,7 +5,8 @@ An end-to-end data analysis project built using advanced Microsoft Excel feature
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
 
-[Checkout my work here](https://1drv.ms/i/c/f470ba729484660f/IQBztM2x7kiRTb5q0kiRlknOAVicxROqWsyRTTxlozNJIyI?e=0pIIW6)
+[Checkout my work here](https://github.com/abdulrahimuthman1-lab/Excel_Data_Analysis_Project/tree/main/Excel_Data_Analytics/Project_1-Dashboard)
+[Checkout the image here](https://1drv.ms/i/c/f470ba729484660f/IQBztM2x7kiRTb5q0kiRlknOAVicxROqWsyRTTxlozNJIyI?e=0pIIW6)
 
 ## Salary Analysis
 
