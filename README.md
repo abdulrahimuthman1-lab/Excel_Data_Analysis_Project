@@ -12,5 +12,5 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 This helps us know the optimal skills employers look out for.
 
-[Checkout my work here]
-[Checkout my work here](https://1drv.ms/i/c/f470ba729484660f/IQAeDDhAVoomR6aHECcKMF6bAfDUI9-XuZlQf6rBD862td8?e=ZZJRFi)
+[Checkout my work here](https://github.com/abdulrahimuthman1-lab/Excel_Data_Analysis_Project/tree/main/Excel_Data_Analytics/Project_2-Analysis)  
+[Checkout an image from the work work here](https://1drv.ms/i/c/f470ba729484660f/IQAeDDhAVoomR6aHECcKMF6bAfDUI9-XuZlQf6rBD862td8?e=ZZJRFi)
